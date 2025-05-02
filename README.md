@@ -25,7 +25,6 @@ To run this project locally:
 ```bash
 git clone https://github.com/your-username/potboiler.git
 cd potboiler
-# Set up your environment or run the appropriate start command
 ```
 
 ## 🤝 Contributing
